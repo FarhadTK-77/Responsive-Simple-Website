@@ -1,8 +1,7 @@
-# Responsive-Simple-Website
+![Watch Now](./images/Design.png)
+# One page Responsive-Simple-Website (HTML CSS Project)
 This is a simple Responsive website built with:
-- Html
-- CSS
-- FlexBox
+- Html,CSS,FlexBox
 
 ## 🚀 About Me
 Hi,I'm **Farhad TK** and I'm a junior Front-End developer...
